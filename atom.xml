@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chazchi.github.io</id>
+    <title>Chaz Chi&apos;s Blog</title>
+    <updated>2023-01-06T15:39:19.984Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chazchi.github.io"/>
+    <link rel="self" href="https://chazchi.github.io/atom.xml"/>
+    <subtitle>Do not go gentle into that good night.</subtitle>
+    <logo>https://chazchi.github.io/images/avatar.png</logo>
+    <icon>https://chazchi.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Chaz Chi&apos;s Blog</rights>
+</feed>
